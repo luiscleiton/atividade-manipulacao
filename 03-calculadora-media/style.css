@@ -123,3 +123,15 @@ footer p {
   text-align: center;
   padding: 1rem;
 }
+
+.aprovado {
+  background-color: #14532d;
+}
+
+.recuperacao {
+  background-color: #713f12;
+}
+
+.reprovado {
+  background-color: #7f1d1d;
+}
